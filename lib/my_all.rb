@@ -13,3 +13,5 @@ def my_all?(collection)
   # true
   # binding.pry
 end
+
+binding.pry
