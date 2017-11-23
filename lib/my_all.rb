@@ -10,5 +10,3 @@ def my_all?(collection)
   end
   true
 end
-
-my_all?([1,2,3]) {|i| i > 0}
